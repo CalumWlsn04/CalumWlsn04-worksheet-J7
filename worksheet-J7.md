@@ -54,4 +54,5 @@
    Only the server can accept connections.
 
 10) How are threads useful with servers? How does a server manage to always be listening for sockets trying to connect?
+    
     It allows for parrelelization of the connections in the server. The threads allow for the simulataneous listening for the sockets trying to connect. 
