@@ -48,9 +48,11 @@
    }
    ```
 8) What is the difference between a socket’s input stream and its output stream?
+   
    Input stream recieves data, Output stream sends data
 
 9) What is the difference between a Socket and a SocketServer?
+    
    Only the server can accept connections.
 
 10) How are threads useful with servers? How does a server manage to always be listening for sockets trying to connect?
